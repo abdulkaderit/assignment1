@@ -22,7 +22,6 @@ class Book {
 }
 
 void main() {
-  // Creating book objects
   Book book1 = Book("Natun Chand", "Kazi Nazrul", 150.99);
   Book book2 = Book("Nakshi Kanthar Math", "Jasimuddin", 250.50);
 
