@@ -1,4 +1,3 @@
-// Base class
 class Employee {
   String name;
   double salary;
@@ -40,7 +39,6 @@ class Developer extends Employee {
 }
 
 void main() {
-  // Creating objects
   Manager manager = Manager("Atik Hassan", 15000, "Human Resources");
   Developer developer = Developer("Shobo Khan", 25000, "Dart/Flutter");
 
